@@ -1,6 +1,7 @@
 package com.example.task07;
 
 public class Task07Main {
+
     public static final String CHECKED = "checked";
     public static final String UNCHECKED = "unchecked";
     public static final String NONE = "none";
